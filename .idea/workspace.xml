@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a04265d-d502-4b2c-bf69-f6f612ee5917" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +49,13 @@
       <recent name="$PROJECT_DIR$/src/ex_02_Variables_DataTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab035a_String_Null">
-    <configuration name="Lab027_Multiple_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Variables_DataTypes.Lab027_Multiple_Variables" />
+  <component name="RunManager" selected="Application.Lab043_Interview_Concat_Plus">
+    <configuration name="Lab038_Unary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab038_Unary_Operator" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_Variables_DataTypes.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab028_Final_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Variables_DataTypes.Lab028_Final_Example" />
+    <configuration name="Lab040_Relational_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab040_Relational_Operators" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_Variables_DataTypes.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032_Literals_P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab032_Literals_P3" />
+    <configuration name="Lab041_Logical_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab041_Logical_Operators" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab035_Non_Primitive_literal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab035_Non_Primitive_literal" />
+    <configuration name="Lab042_interview_Concat_plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab042_interview_Concat_plus" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab035a_String_Null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Literals.Lab035a_String_Null" />
+    <configuration name="Lab043_Interview_Concat_Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab043_Interview_Concat_Plus" />
       <module name="Learning Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab035a_String_Null" />
-        <item itemvalue="Application.Lab035_Non_Primitive_literal" />
-        <item itemvalue="Application.Lab032_Literals_P3" />
-        <item itemvalue="Application.Lab028_Final_Example" />
-        <item itemvalue="Application.Lab027_Multiple_Variables" />
+        <item itemvalue="Application.Lab043_Interview_Concat_Plus" />
+        <item itemvalue="Application.Lab042_interview_Concat_plus" />
+        <item itemvalue="Application.Lab041_Logical_Operators" />
+        <item itemvalue="Application.Lab040_Relational_Operators" />
+        <item itemvalue="Application.Lab038_Unary_Operator" />
       </list>
     </recent_temporary>
   </component>
